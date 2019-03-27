@@ -1,2 +1,2 @@
-# Take-a-Break-python-script
+#Take A Break
 Taking a web break every two hours script
